@@ -1,0 +1,103 @@
+Buffs: {
+	BlankDebuff: {
+		DisplayName: Bullet of Love
+		Description: You lose
+	}
+}
+
+Items: {
+	空白: {
+		DisplayName: 空白
+		Tooltip: ""
+	}
+
+	StandardIssue: {
+		DisplayName: Standard Issue
+		Tooltip: ""
+	}
+
+	StarlightAccelerator: {
+		DisplayName: Starlight Accelerator
+		Tooltip:
+			'''
+			Bullets travel instantly to their target
+			Increases ranged armor penetration by 12
+			8% increased ranged critical strike chance
+			'''
+	}
+
+	RubberBullet: {
+		DisplayName: Rubber Bullet
+		Tooltip: "'Better than nothing, I guess...'"
+	}
+
+	MatchlockPistol: {
+		DisplayName: Matchlock Pistol
+		Tooltip: "'Tally ho!'"
+	}
+
+	GlassEye: {
+		DisplayName: Glass Eye
+		Tooltip:
+			'''
+			10% increased summon damage
+			10% increases ranged critical strike chance
+			'''
+	}
+
+	PerfectSync: {
+		DisplayName: Perfect Sync Emblem.
+		Tooltip:
+			'''
+			Increases your max number of minions by 2
+			10% increased damage
+			'Bau bau!'
+			'''
+	}
+
+	Telescope: {
+		DisplayName: Telescope
+		Tooltip:
+			'''
+			Bullets travel instantly to their target
+			Increases view range for guns (Right click to zoom out)
+			Enemies are less likely to target you
+			Increases ranged armor penetration by 10
+			10% increased ranged damage and critical strike chance
+			'Stellar stellar'
+			'''
+	}
+
+	IdolSong: {
+		DisplayName: Idol Song
+		Tooltip:
+			'''
+			Bullets travel instantly to their target
+			Increases your max number of minions by 2
+			Ranged and summon bonuses:
+			* Armor penetration +10
+			* Damage +10%
+			* Critical strike chance +10%
+			'I wanna share the futures that we can see...'
+			'''
+	}
+
+	SuperSoldierSerum: {
+		DisplayName: Super Soldier Serum
+		Tooltip: ""
+	}
+}
+
+Projectiles.RubberBullet.DisplayName: Rubber Bullet
+
+Configs: {
+	BestFriendConfig: {
+		DisplayName: Common Config
+		Headers.Items: Items
+
+		disable_scope: {
+			Label: Disable Scope Effect for Starlight Scope
+			Tooltip: Disable the right-click scope effect for the Starlight Scope
+		}
+	}
+}

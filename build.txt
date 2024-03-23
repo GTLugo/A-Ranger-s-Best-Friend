@@ -1,0 +1,3 @@
+displayName = A Ranger's Best Friend
+author = GTLugo
+version = 0.1
