@@ -39,6 +39,7 @@ public class Telescope : ModItem {
     CreateRecipe()
       .AddIngredient(ItemID.ReconScope)
       .AddIngredient<StarlightAccelerator>()
+      .AddTile(TileID.TinkerersWorkbench)
       .Register();
   }
 }

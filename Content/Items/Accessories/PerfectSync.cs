@@ -30,6 +30,7 @@ public class PerfectSync : ModItem {
     CreateRecipe()
       .AddIngredient(ItemID.AvengerEmblem)
       .AddIngredient(ItemID.PygmyNecklace)
+      .AddTile(TileID.TinkerersWorkbench)
       .Register();
   }
 }

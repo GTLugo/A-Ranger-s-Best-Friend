@@ -42,12 +42,14 @@ public class MatchlockPistol : BaseGun {
   public override void AddRecipes() {
     CreateRecipe()
       .AddRecipeGroup(RecipeGroupID.Wood, 10)
+      .AddTile(TileID.WorkBenches)
       .Register();
 
     CreateRecipe()
       .AddIngredient<MatchlockPistol>()
       .AddRecipeGroup(BestFriendRecipes.DemoniteBarRecipeGroupId, 5)
       .AddIngredient(ItemID.IllegalGunParts)
+      .AddTile(TileID.Anvils)
       .Register()
       .ReplaceResult(ItemID.Revolver);
   }

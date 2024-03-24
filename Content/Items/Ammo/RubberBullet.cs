@@ -27,7 +27,7 @@ public class RubberBullet : ModItem {
   }
 
   public override void AddRecipes() {
-    CreateRecipe()
+    CreateRecipe(25)
       .AddIngredient(ItemID.Gel)
       .AddIngredient(ItemID.StoneBlock)
       .Register();

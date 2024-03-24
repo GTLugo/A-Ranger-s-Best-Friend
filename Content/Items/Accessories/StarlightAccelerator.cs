@@ -35,6 +35,7 @@ public class StarlightAccelerator : ModItem {
     CreateRecipe()
       .AddIngredient(ItemID.MeteoriteBar, 16)
       .AddIngredient(ItemID.FallenStar, 8)
+      .AddTile(TileID.TinkerersWorkbench)
       .Register();
   }
 }

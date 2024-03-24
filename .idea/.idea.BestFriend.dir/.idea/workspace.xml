@@ -8,11 +8,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="822e94e1-8715-4303-8cfc-eccc2652d855" name="Changes" comment="" />
+    <list default="true" id="822e94e1-8715-4303-8cfc-eccc2652d855" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BestFriend.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BestFriend.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Items/Weapons/Rifle - Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Items/Accessories/PerfectSync.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Items/Accessories/PerfectSync.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Items/Accessories/StarlightAccelerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Items/Accessories/StarlightAccelerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Items/Accessories/Telescope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Items/Accessories/Telescope.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Items/Ammo/RubberBullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Items/Ammo/RubberBullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Items/Weapons/Matchlock.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Items/Weapons/Matchlock.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Items/Weapons/StandardIssue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Items/Weapons/StandardIssue.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/description.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLabMergeRequestsSettings">{}</component>
   <component name="GithubPullRequestsUISettings">{}</component>
@@ -46,28 +60,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\galex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\galex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\galex\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\galex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\galex\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\galex\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BestFriend: Terraria">
     <configuration name="BestFriend: Terraria" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BestFriend.csproj" />
@@ -113,7 +128,7 @@
       <workItem from="1711060467648" duration="11855000" />
       <workItem from="1711215352625" duration="90000" />
       <workItem from="1711215452015" duration="2000" />
-      <workItem from="1711215464820" duration="1706000" />
+      <workItem from="1711215464820" duration="6102000" />
     </task>
     <servers />
   </component>

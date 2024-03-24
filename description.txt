@@ -1,1 +1,12 @@
-A Ranger's Best Friend is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+A Ranger's Best Friend: An update to Extra Gunslingers' Gear
+
+New ranged gear, with additional gear supporting the hybrid ranger/summoner subclass
+
+Sample of current content:
+* Matchlock Pistol: starter pistol made from wood.
+* Standard Issue: starter rifle made from iron.
+* Starlight Accelerator: makes bullet travel time instant (hit-scan).
+* Telescope: starlight accelerator + recon scope.
+* Perfect Sync Emblem: avenger emblem + pygmy necklace
+
+The wiki and mod are works in progress as I port old features from Extra Gunslingers' Gear. Not all features will be ported.

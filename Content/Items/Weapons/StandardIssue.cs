@@ -18,21 +18,10 @@ public class StandardIssue : BaseGun {
         use_time = 26,
         fire_rate = 0
       }
-    // }, {
-    //   FireMode.Secondary, new GunStats {
-    //     damage = 3,
-    //     crit = 5,
-    //     knockback = 5,
-    //     fire_rate = 10,
-    //     bullets_per_burst = 3,
-    //     spread_angle = 1,
-    //     use_sound = SoundID.Item31
-    //   }
     }
   };
 
   public override void SetStaticDefaults() {
-    // Tooltip.SetDefault("Alt-fire shoots a spread of bullets.");
     CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
   }
 
